@@ -8,7 +8,6 @@ Prerequisites
 Install
 
 ```powershell
-cd "c:\Users\sriab\OneDrive\Desktop\Projects\ezSCM Assignment\Customer Service Support\anima-project"
 npm install
 npm run dev
 ```
