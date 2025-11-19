@@ -1,6 +1,6 @@
 {
-  "name": "anima-project-bluesprings",
-  "version": "0.1.0",
+  "name": "features-page",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -13,8 +13,7 @@
     "react-dom": "^18.2.0",
     "clsx": "^2.1.0",
     "class-variance-authority": "^0.7.0",
-    "tailwind-merge": "^2.2.0",
-    "@radix-ui/react-slot": "^1.0.3"
+    "tailwind-merge": "^2.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.0",
