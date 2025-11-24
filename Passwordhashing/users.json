@@ -1,0 +1,10 @@
+{
+  "Kaushik": {
+    "salt": "1234567890",
+    "hash": "4bc29e0a4762425571d78f6f95fc1e639509717e68e3237ecb19fd0895cd4321"
+  },
+  "Shashank": {
+    "salt": "1234567890",
+    "hash": "c3abfeba79904182e51d77a5badf70259bd3c64f1d3cba0ea542ff70277774e5"
+  }
+}
